@@ -55,5 +55,7 @@ for (i = programName.length -1; i > -1; i--) {
       oddArr.push(arr[i]);
     }
   }
+
+  /* b */
   console.log(evenArr);
   console.log(oddArr);
